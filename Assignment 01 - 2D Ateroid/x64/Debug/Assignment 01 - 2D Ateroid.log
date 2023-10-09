@@ -1,48 +1,23 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assignment 01 - 2D Ateroid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+﻿  Animation.cpp
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\Animation.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Asteroid.cpp
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\GameBase.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Bullet.cpp
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\GameBase.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
   EndGameScreen.cpp
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\EndGameScreen.cpp(25,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\EndGameScreen.cpp(28,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\EndGameScreen.cpp(69,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\EndGameScreen.cpp(81,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\EndGameScreen.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
   Game.cpp
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\Game.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\Game.cpp(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameBase.cpp
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\GameBase.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
   MainGame.cpp
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(24,84): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(25,69): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(26,73): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(27,62): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(48,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(81,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(81,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(93,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(114,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(114,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(133,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(133,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(133,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(138,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(138,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(138,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(150,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(150,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(180,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(190,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.cpp(200,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainGame.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
   MainMenu.cpp
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(25,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(26,66): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(27,70): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(41,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(45,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(49,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(53,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(57,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(61,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(65,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(69,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(73,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(81,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(88,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.cpp(95,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\MainMenu.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\GameBase.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Save.cpp
+  ScoreBoard.cpp
+C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\Assignment 01 - 2D Ateroid\ScoreBoard.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Setup.cpp
   Generating Code...
-  Assignment 01 - 2D Ateroid.vcxproj -> C:\Users\IKR-Creations\source\repos\Assignment 01 - 2D Ateroid\x64\Debug\Assignment 01 - 2D Asteroid.exe
